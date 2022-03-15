@@ -126,7 +126,7 @@ c. 记笔记复习
 
 面试前突击刷的时候(每天10-20题) 还会做个excel, 记录每道题的考点, 最优解法, 要不要复习, 初刷一遍肯定要复习的...
 
-<img width="605" height="147" src=":/387a66559e014c1d95a464bda96b2f48"/>
+<img width="605" height="147" src="_resources/p404580974_5afced1e140a4825bcf076871d42a7f1.webp"/>
 
 2\. behavior question
 
@@ -142,7 +142,7 @@ b. 准备
 
 a. 推荐pramp这个网站, 我主要做algorithms, 面试前几天做了几次behavioral, 自己埋头准备其实很难发现自己的缺点, 我建议现场互相给feedback
 
-<img width="605" height="468" src=":/b17038245d0e49f8b17559144fa609cd"/>
+<img width="605" height="468" src="_resources/p404581117_b6ca8d9c37f34762bd6866314734c594.webp"/>
 
 最后我总结的是技术面这几点:
 
