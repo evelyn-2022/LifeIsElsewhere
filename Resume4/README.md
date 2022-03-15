@@ -2,6 +2,8 @@
 
 来自: [骑着蜗牛追导弹](https://www.douban.com/people/170990067/) 2021-11-27 20:49:30
 
+[原帖链接](https://www.douban.com/group/topic/254078259/?_i=7377147FQMtshO)
+
 上次组里分享了[小白如何刷题](https://www.douban.com/group/topic/253552879/?_i=38009761f5e974b)， 受到姐妹们的鼓励，这次分享一下我秋招期间，是如何准备简历项目的，这是[公众号原文](https://mp.weixin.qq.com/s?__biz=MzkwMjE3OTY2NA==&mid=2247485534&idx=1&sn=cabe7a213647871dfdb4ce374f4671ba&chksm=c0a83661f7dfbf772f78474cb4cd0a601a5645bf89d99312a6b1c9bd7b8310c3a58217311678&token=1635915144&lang=zh_CN#rd)。下次我将在公众号分享，我整理的秋招期间，==关于这个项目面试中可能会被问到的问题，==有需要的姐妹可以先关注一下公众号。
 
 * * *
@@ -22,9 +24,9 @@
 
 [关于我](https://mp.weixin.qq.com/s/IJM9eRFPDGJoRDRGF7QxAg)，当初我对linux系统编程和网络编程没有任何基础，虽然B站上也有类似的视频，但因为相关资料不是很全，也没有人可以答疑，学起来非常不方便，就斥巨资和朋友拼了这个课，不过好消息可以告诉大家，这个课程目前已经免费，这是项目地址：==https://www.nowcoder.com/courses/cover/live/504==
 
-![](../_resources/p512471226_ae967e4c0ee9412ca699cb535f224e3d.webp)
+![](_resources/p512471226_ae967e4c0ee9412ca699cb535f224e3d.webp)
 
-![](../_resources/p512468387_b4c4ee320e8f412aac5660710e41393d.webp)
+![](_resources/p512468387_b4c4ee320e8f412aac5660710e41393d.webp)
 
 这是当初在学这个课程的时候，把配套的课件导入OneNote，除了跟着敲敲代码以外，还配套勾勾画画做了些笔记。
 
@@ -74,7 +76,7 @@ Q2：知识点讲的浅？
 
 这种类似于培训班的学习视频不可避免的就是浅尝辄止，知识点讲的不够深入全面。所以在看这个视频课程的时候，建议配套使用游双的《linux高性能服务器编程》。
 
-<img width="605" height="214" src="../_resources/p512468408_91b962a3535f401b979142b77af3da33.webp"/>
+<img width="605" height="214" src="_resources/p512468408_91b962a3535f401b979142b77af3da33.webp"/>
 
 牛客视频课程基本上就是这本书的缩减版，对于基础比较弱的同学，先来一遍牛客视频，再来看这本书就非常有感觉了。
 
@@ -88,7 +90,7 @@ Q3：怎么把它变成属于自己的项目？
 
 尝试自己改写或者增添一些小功能，这里我抛砖引玉的说一下，比如把基于Reactor高并发模式换成Proactor，把遍历链表换成复杂度更低的小根堆，加上单例模式等等。
 
-<img width="605" height="547" src="../_resources/p512468426_08f516c0cb30401291ca28e63453cb1c.webp"/>
+<img width="605" height="547" src="_resources/p512468426_08f516c0cb30401291ca28e63453cb1c.webp"/>
 
 【善用github】上图是我在github上随意搜索了一下C++web服务器项目出来的内容，可以看到有不少人在此基础上做了改进，这些可以给你一些优化改进的思路。
 
@@ -102,9 +104,9 @@ Q3：怎么把它变成属于自己的项目？
 
 常见的八股文比如，epoll/poll/select三姐妹，Reactor/Proactor优缺点，http等等。下图是我在秋招时期，搜索并总结的关于这个项目的相关问题的笔记，有机会的话，可以给大家整理出来。
 
-<img width="605" height="1646" src="../_resources/p512468434_384a4da9c5fc4d85855c46a354ab7b2d.webp"/>
+<img width="605" height="1646" src="_resources/p512468434_384a4da9c5fc4d85855c46a354ab7b2d.webp"/>
 
-<img width="605" height="765" src="../_resources/p512468445_dd20cab4093c452eac4f66ebdec310c3.webp"/>
+<img width="605" height="765" src="_resources/p512468445_dd20cab4093c452eac4f66ebdec310c3.webp"/>
 
 当然前期不必考虑那么多，今天我所说的【融会贯通】【备好腹稿】也不是一气呵成的，这是一个反复理解，反复改进的过程。
 
@@ -112,6 +114,6 @@ Q3：怎么把它变成属于自己的项目？
 
 确实见过某位同学，其实在我们看来他已经准备的很好了，但一直不敢投，所以到10、11月份还面试。虽然最后也拿到了满意的大厂offer，但她本人那段时间真的非常难熬。尤其是你身边的小伙伴可能纷纷在八月底已经躺了，只有你一个人前途未卜，那滋味可想而知。
 
-<img width="605" height="160" src="../_resources/p512628270_c5e10150bda746beb554616136537293.webp"/>
+<img width="605" height="160" src="_resources/p512628270_c5e10150bda746beb554616136537293.webp"/>
 
 公众号漏网小鱼
