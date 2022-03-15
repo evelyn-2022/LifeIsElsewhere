@@ -8,7 +8,7 @@
 
 3. [豆瓣日记：写简历的偷懒小技巧们。](https://github.com/evelyn-2022/LifeIsElsewhere/tree/main/Resume3)
 
-4. [豆瓣 WIT：分享 | 非科班 | 如何丰富简历项目](https://github.com/evelyn-2022/LifeIsElsewhere/tree/main/Resume4)
+4. [豆瓣 WIT：分享  非科班  如何丰富简历项目](https://github.com/evelyn-2022/LifeIsElsewhere/tree/main/Resume4)
 
 5. [豆瓣 WIT：Step by step 提高 SDE 面试软实力](https://github.com/evelyn-2022/LifeIsElsewhere/tree/main/Interview1)
 
@@ -20,9 +20,9 @@
 
 2. [豆瓣 WIT：爱尔兰文科硕士转码申请留学找工面试经验 | 6.3 更新](https://github.com/evelyn-2022/LifeIsElsewhere/tree/main/Ireland2)
 
-3. [豆瓣 WIT：求职|在爱尔兰找工作攻略 1：简历篇](https://github.com/evelyn-2022/LifeIsElsewhere/tree/main/Ireland3)
+3. [豆瓣 WIT：求职 在爱尔兰找工作攻略 1：简历篇](https://github.com/evelyn-2022/LifeIsElsewhere/tree/main/Ireland3)
 
-4. [豆瓣 WIT：求职|在爱尔兰找工作攻略 2：求职篇](https://github.com/evelyn-2022/LifeIsElsewhere/tree/main/Ireland4)
+4. [豆瓣 WIT：求职 在爱尔兰找工作攻略 2：求职篇](https://github.com/evelyn-2022/LifeIsElsewhere/tree/main/Ireland4)
 
 5. [知乎：爱尔兰留学工作之程序媛入职 1 年工作体验](https://github.com/evelyn-2022/LifeIsElsewhere/tree/main/Ireland5)
 
@@ -52,7 +52,7 @@
 
 5. [豆瓣 WIT：分享算法和刷题油管博主](https://github.com/evelyn-2022/LifeIsElsewhere/blob/main/LearnToCode5/README.md)
 
-6. [豆瓣 WIT：分享 | 非科班 | 零基础小白如何刷题](https://github.com/evelyn-2022/LifeIsElsewhere/tree/main/LearnToCode6)
+6. [豆瓣 WIT：分享  非科班  零基础小白如何刷题](https://github.com/evelyn-2022/LifeIsElsewhere/tree/main/LearnToCode6)
 
 7. [指西组：国内文科（法学）三个月转码经验贴](https://github.com/evelyn-2022/LifeIsElsewhere/tree/main/LearnToCode7)
 
