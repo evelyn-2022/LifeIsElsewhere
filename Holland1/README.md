@@ -1,9 +1,9 @@
 
 # 转码来荷兰工作定居概况
 
-[原帖链接](https://www.douban.com/group/topic/262187679/?_i=7373040FQMtshO)
-
 来自: [小炒肉](https://www.douban.com/people/158787102/?_i=7362251FQMtshO) 2022-03-13 05:32:33
+
+[原帖链接](https://www.douban.com/group/topic/262187679/?_i=7373040FQMtshO)
 
 
 最近回复了一个帖子，好多姐妹来问我怎样通过转码去荷兰/西欧工作，精力有限无法一一回复，所以开放这个帖子对拉拉群体提供公益咨询，Women Help Women. 姐姐为爱发电，深藏功与名。给姬崽开小灶的同时，不定期更新干货，大家都能受益。
