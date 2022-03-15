@@ -1,6 +1,6 @@
 # 爱尔兰留学工作之程序媛入职1年工作体验
 
-[原帖](https://zhuanlan.zhihu.com/p/296230305)
+[原帖链接](https://zhuanlan.zhihu.com/p/296230305)
 
 [李水水](https://www.zhihu.com/people/li-shui-shui-75)
 
