@@ -30,7 +30,7 @@ LinkedIn上被搜索到，有几个地方比较关键：connection数量和headl
 
 被搜索到上百次后，肯定有recruiter点进来看，如果一直没有收到任何recruiter的搭讪，说明详细内容写得不够好。
 
-<img width="605" height="139" src="../_resources/p342030032_c406cdeee0a8465b9d574e3ac72ac43a.webp"/>
+<img width="605" height="139" src="_resources/p342030032_c406cdeee0a8465b9d574e3ac72ac43a.webp"/>
 
 点击这个XXX Search Appearances，下一个页面的底部会展示搜索你的人主要用了些什么关键词。如果这些关键词不是你的主要技能，或者你想找的职位的方向，说明你的profile里的关键词有些问题。
 
