@@ -9,3 +9,5 @@
 4. [豆瓣WIT：求职|在爱尔兰找工作攻略2：求职篇](https://github.com/evelyn-2022/LifeIsElsewhere/tree/main/Ireland/Ireland4)
 
 5. [知乎：爱尔兰留学工作之程序媛入职1年工作体验](https://github.com/evelyn-2022/LifeIsElsewhere/tree/main/Ireland/Ireland5)
+
+6. [豆瓣WIT：薪酬福利HR，坐标爱尔兰，Q&A贴](https://github.com/evelyn-2022/LifeIsElsewhere/blob/main/Ireland/Ireland6/README.md)
