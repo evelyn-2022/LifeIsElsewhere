@@ -142,7 +142,7 @@ b. 准备
 
 a. 推荐pramp这个网站, 我主要做algorithms, 面试前几天做了几次behavioral, 自己埋头准备其实很难发现自己的缺点, 我建议现场互相给feedback
 
-<img width="605" height="468" src="../_resources/p404581117_b6ca8d9c37f34762bd6866314734c594.webp"/>
+<img width="605" height="468" src="_resources/p404581117_b6ca8d9c37f34762bd6866314734c594.webp"/>
 
 最后我总结的是技术面这几点:
 
