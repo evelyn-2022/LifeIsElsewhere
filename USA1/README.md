@@ -22,10 +22,6 @@
 
 我的建议是：看你的性格和英语水平。我性格就是话唠，非常看不惯不公平、不人性的处事方法。我就喜欢argue，在这边argue过：饭菜不好吃退款了，快递包装漏了重新发货，外卖app的promo code忘记用了给送credit，工资再多给点（这点很好玩，因为我有两个offer，我可以跟hr讲价）
 
-最后，还有问题就发问吧，祝姐妹们都充满信心，未来都过着自己想要的生活。附一张GHC时IBM包了晚场的环球影城送我们进去玩（公司拼命讨好你的感觉爽歪歪）
-
-<img width="605" height="807" src="../_resources/p356393521_cb011b2715b2466bb758df355dc27b1c.webp"/>
-
 
 ### 讨论区
 
@@ -38,11 +34,7 @@
     能请问楼主当时大部分申请是networking找内推还是海投的吗？感谢！ [](#)[🌬](https://www.douban.com/people/doraym/)
     
     要说大部分还是海投+career fair投，内推就是几个大厂，fb google amazon pinterest vmware 都不记得了。地里有些人会offer给你内推，你要是入职他们也能拿bonus
-    
-    赞 (4) [回应](https://www.douban.com/group/topic/198790405/?cid=2764188374#last)
-    
-- [<img width="48" height="48" src="../_resources/up52510339-2_cb802032c0594b7888d4b853f748e5f1.jpg"/>](https://www.douban.com/people/52510339/)
-    
+       
 - 请问我也想转码，经济学大三本科在读，准备转前端，因为对数据不太了解，对于自己设计创造比较感 [...](#) [：](https://www.douban.com/people/185647233/)   
    - 前端的确是很多人转码首选，毕竟做的东西看得见。前端要做的是实实在在做项目，知道很多trivial的知识，我面过两次前端，一次是让我写红绿灯，一次是写react里的component。我都挂了。相比之下后端只用学算法就很适合刷题hh。你时间还多，暑期不管什么公司都找个实习转码，这样申研究生时比较solid。好好规划一下。ux是用户体验方向吧？我有个同学前年在austin读书找到小公司实习转正了的，但他觉得竞争不过当地人（语言）就回国华为了。
 </blockquote>
