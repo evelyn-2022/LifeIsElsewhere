@@ -1,20 +1,6 @@
 # 个人备份：豆瓣、一亩三分地、知乎关于转码移民的帖子
 
-## 转码学习路线
-
-1. [豆瓣 WIT：工科 PhD 转码总结](https://github.com/evelyn-2022/LifeIsElsewhere/tree/main/LearnToCode1)
-
-2. [豆瓣 WIT：非科班后端程序媛：我是怎么补齐基础 cs 知识的](https://github.com/evelyn-2022/LifeIsElsewhere/tree/main/LearnToCode2)
-
-3. [豆瓣 WIT：商科转码中，想来询问有没有 coursera 和 udemy 网课推荐](https://github.com/evelyn-2022/LifeIsElsewhere/tree/main/LearnToCode3)
-
-4. [豆瓣 WIT：网课大比拼 Lynda/ Pluralsight/ Udemy/Udacity/Coursera/MasterClass/Domestika](https://github.com/evelyn-2022/LifeIsElsewhere/tree/main/LearnToCode4)
-
-5. [豆瓣 WIT：分享算法和刷题油管博主](https://github.com/evelyn-2022/LifeIsElsewhere/blob/main/LearnToCode5/README.md)
-
-6. [豆瓣 WIT：分享 | 非科班 | 零基础小白如何刷题](https://github.com/evelyn-2022/LifeIsElsewhere/tree/main/LearnToCode6)
-
-## 简历及面试
+## 一、简历及面试
 
 1. [豆瓣 WIT：提高 LinkedIn Profile 质量，让 recruiter 和 HR 主动上门](https://github.com/evelyn-2022/LifeIsElsewhere/blob/main/Resume1/README.md)
 
@@ -26,7 +12,7 @@
 
 5. [豆瓣 WIT：Step by step 提高 SDE 面试软实力](https://github.com/evelyn-2022/LifeIsElsewhere/tree/main/Interview1)
 
-## 各地区选校/求职情况
+## 二、各地区选校/求职情况
 
 ### 欧洲
 
@@ -53,3 +39,19 @@
 1. [豆瓣 WIT：26 岁出国转码，找到全职工作留美全过程](https://github.com/evelyn-2022/LifeIsElsewhere/tree/main/USA1)
 
 2. [豆瓣 WIT：坐标加拿大多伦多，后端 SDE，AMA 和其他](https://github.com/evelyn-2022/LifeIsElsewhere/blob/main/Canada1/README.md)
+
+## 三、转码学习路线
+
+1. [豆瓣 WIT：工科 PhD 转码总结](https://github.com/evelyn-2022/LifeIsElsewhere/tree/main/LearnToCode1)
+
+2. [豆瓣 WIT：非科班后端程序媛：我是怎么补齐基础 cs 知识的](https://github.com/evelyn-2022/LifeIsElsewhere/tree/main/LearnToCode2)
+
+3. [豆瓣 WIT：商科转码中，想来询问有没有 coursera 和 udemy 网课推荐](https://github.com/evelyn-2022/LifeIsElsewhere/tree/main/LearnToCode3)
+
+4. [豆瓣 WIT：网课大比拼 Lynda/ Pluralsight/ Udemy/Udacity/Coursera/MasterClass/Domestika](https://github.com/evelyn-2022/LifeIsElsewhere/tree/main/LearnToCode4)
+
+5. [豆瓣 WIT：分享算法和刷题油管博主](https://github.com/evelyn-2022/LifeIsElsewhere/blob/main/LearnToCode5/README.md)
+
+6. [豆瓣 WIT：分享 | 非科班 | 零基础小白如何刷题](https://github.com/evelyn-2022/LifeIsElsewhere/tree/main/LearnToCode6)
+
+
