@@ -50,25 +50,25 @@ Covid-19之后，全公司从今年2月份开始在家办公到如今，在这�
 
 现在是爱尔兰的秋季 ，也是仅次于夏天最美丽的时节。由于纬度高处于落叶乔木带，所有道路两旁不同树木的叶子铺成一片金黄橙红的景象。而且因为空气干净湿润，你会发现环境色彩的饱和度特别高，真的就是开了美食滤镜的效果！因为太喜欢秋天了所以要先说一下哈哈
 
-<img width="690" height="388" src="../_resources/v2-68dcccbc785f301f05f51277e3928_bf3e75b70b6f4134b.jpg"/>
+<img width="690" height="388" src="_resources/v2-68dcccbc785f301f05f51277e3928_bf3e75b70b6f4134b.jpg"/>
 
 【注】绝对没有开滤镜，就是苹果后置镜头直出。
 
-<img width="690" height="460" src="../_resources/v2-acd5cd3f87f0dac4d12b5200ce00d_bf8938c4eae24d408.jpg"/>
+<img width="690" height="460" src="_resources/v2-acd5cd3f87f0dac4d12b5200ce00d_bf8938c4eae24d408.jpg"/>
 
 【注】爱尔兰由于纬度高，所以天空显得很低感觉能碰到云朵
 
 如果你喜欢户外运动的话，爱尔兰真的有很多户外自然活动可以让你在各种环境里（森林，大海，山坡）一边运动一边欣赏四时不同的景色。可以去森林里徒步或者爬树，去登山，去海里游泳，去骑自行车...而且！基本不会遇到人山人海的情况，作为一个小岛也不需要你长途跋涉。周末想出门走走的话，0.5-3小时以内差不多可以到达你想去的所有地方。
 
-<img width="690" height="518" src="../_resources/v2-7a96df0adc13a4f533670681813ce_fd6354e137d846f7b.jpg"/>
+<img width="690" height="518" src="_resources/v2-7a96df0adc13a4f533670681813ce_fd6354e137d846f7b.jpg"/>
 
 【注】之前和朋友去游海泳的岸边
 
-<img width="690" height="518" src="../_resources/v2-ff3a72be66df92272543381df82ed_aeb952f5f3e44c3e8.jpg"/>
+<img width="690" height="518" src="_resources/v2-ff3a72be66df92272543381df82ed_aeb952f5f3e44c3e8.jpg"/>
 
 【注】去公园里跑步也是很好的选择，早晨空气更凉爽清新
 
-<img width="690" height="920" src="../_resources/v2-506cfb087c8df620f3a82602367c4_300f1e6fcd4846ada.jpg"/>
+<img width="690" height="920" src="_resources/v2-506cfb087c8df620f3a82602367c4_300f1e6fcd4846ada.jpg"/>
 
 【注】千万不要招惹天鹅，被一头大鹅追的感觉绝对是噩梦....
 
