@@ -167,48 +167,32 @@ Khan Academy上的Computer and Internet这一节课很值得看一看，讲了HT
 
 #### **我存下来的一些比较好的github repo**
 
-- <img width="60" height="30" src="_resources/developer-roadmap_b720aa48b7644614ab4a7352b6ab9ef7.png"/>
-   
-    [GitHub - kamranahmedse/developer-roadmap: Roadmap to becoming a developer in 2022](https://github.com/kamranahmedse/developer-roadmap)
+- [GitHub - kamranahmedse/developer-roadmap: Roadmap to becoming a developer in 2022](https://github.com/kamranahmedse/developer-roadmap)
     
-    Roadmap to becoming a developer in 2022. Contribute to kamranahmedse/developer-roadmap development by creating an account on GitHub.
+    Roadmap to becoming a developer in 2022.
     
-    <img width="14" height="14" src="_resources/github_68f02c5b639d43daad8198e2c71c8926.com"/>[GitHub](https://github.com)
     
-- <img width="60" height="30" src="_resources/Front-End-Interview-Notebook_fca09bb2bb594e6ea295e.png"/>
+- [GitHub - CavsZhouyou/Front-End-Interview-Notebook: 前端面试复习笔记](https://github.com/CavsZhouyou/Front-End-Interview-Notebook)
     
-    [GitHub - CavsZhouyou/Front-End-Interview-Notebook: 前端面试复习笔记](https://github.com/CavsZhouyou/Front-End-Interview-Notebook)
+   前端面试复习笔记. 
     
-    :ant:前端面试复习笔记. Contribute to CavsZhouyou/Front-End-Interview-Notebook development by creating an account on GitHub.
+- [GitHub - qianguyihao/Web: 千古前端图文教程，超详细的前端入门到进阶学习笔记。从零开始学前端，做一名精致优雅的前端工程师。](https://github.com/qianguyihao/Web)
     
-    <img width="14" height="14" src="_resources/github_68f02c5b639d43daad8198e2c71c8926.com"/>[GitHub](https://github.com)
-    
-- <img width="60" height="30" src="_resources/Web_3a618d68a4eb43a497673949262ec155.png"/>
-    
-    [GitHub - qianguyihao/Web: 千古前端图文教程，超详细的前端入门到进阶学习笔记。从零开始学前端，做一名精致优雅的前端工程师。](https://github.com/qianguyihao/Web)
-    
-    千古前端图文教程，超详细的前端入门到进阶学习笔记。从零开始学前端，做一名精致优雅的前端工程师。. Contribute to qianguyihao/Web development by creating an account on GitHub.
-    
-    <img width="14" height="14" src="_resources/github_68f02c5b639d43daad8198e2c71c8926.com"/>[GitHub](https://github.com)
+    千古前端图文教程，超详细的前端入门到进阶学习笔记。从零开始学前端，做一名精致优雅的前端工程师。
     
     （强烈推荐<img width="21" height="21" src="_resources/203c_3c90ea40032144cdb5604cbf772b7e25.png"/>，git clone下来慢慢看）
     
-- <img width="60" height="30" src="_resources/JavaScript-Algorithms_be23da5464434d12b89a5b177ce8.png"/>
+-  [GitHub - sisterAn/JavaScript-Algorithms: 基础理论+JS框架应用+实践，从0到1构建整个前端算法体系](https://github.com/sisterAn/JavaScript-Algorithms)
     
-    [GitHub - sisterAn/JavaScript-Algorithms: 基础理论+JS框架应用+实践，从0到1构建整个前端算法体系](https://github.com/sisterAn/JavaScript-Algorithms)
-    
-    基础理论+JS框架应用+实践，从0到1构建整个前端算法体系. Contribute to sisterAn/JavaScript-Algorithms development by creating an account on GitHub.
-    
-    <img width="14" height="14" src="_resources/github_68f02c5b639d43daad8198e2c71c8926.com"/>[GitHub](https://github.com)
-    
+    基础理论+JS框架应用+实践，从0到1构建整个前端算法体系.
 
 #### **一些博客文章**
 
-- <img width="14" height="14" src="_resources/frontendmasters_03242cd77288462294c4eebe4177cc5d.com"/>[frontendmasters.com](https://frontendmasters.com)
+- [frontendmasters.com](https://frontendmasters.com)
     
     （强烈推荐<img width="21" height="21" src="_resources/203c_3c90ea40032144cdb5604cbf772b7e25.png"/>，所有前端需要了解的知识这上面基本都有️）
     
-- <img width="14" height="14" src="_resources/html5rocks_fbdfdf67db3941c5ac2e3ec2c9e118d3.com"/>[html5rocks.com](https://html5rocks.com)
+- [html5rocks.com](https://html5rocks.com)
     
 
 ## 写在后面
