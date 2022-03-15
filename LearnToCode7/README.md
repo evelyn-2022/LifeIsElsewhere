@@ -46,15 +46,7 @@ Hello大家好我又回来了，非常感谢指西针小组的各位姐妹们的
 
 ### **学习路线**
 
-#### **Python for everybody（
-
-![](_resources/favicons_sz_64_domain_url_py4e_e1ae6e09a6374f82a3c.com)
-
-[PY4E - Python for Everybody](https://www.py4e.com/)
-
-<img width="14" height="14" src="_resources/py4e_6b53e9dd73d94b00865561590982d095.com"/>[py4e.com](https://py4e.com)
-
-）**
+#### **Python for everybody[PY4E - Python for Everybody](https://www.py4e.com/)**
 
 推荐指数：<img width="21" height="21" src="_resources/1f31f_1b066c6a862d487699c30e731eca2f81.png"/><img width="21" height="21" src="_resources/1f31f_1b066c6a862d487699c30e731eca2f81.png"/><img width="21" height="21" src="_resources/1f31f_1b066c6a862d487699c30e731eca2f81.png"/>
 
