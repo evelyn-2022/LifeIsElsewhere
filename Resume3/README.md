@@ -31,7 +31,7 @@
 
 （google图片搜索，网络截图）
 
-<img width="675" height="1461" src="../_resources/p55085023_a53e9af0bafe4a6c87ef3a6f2809ca93.webp"/>
+<img width="675" height="1461" src="_resources/p55085023_a53e9af0bafe4a6c87ef3a6f2809ca93.webp"/>
 
 2\. 内容：
 
