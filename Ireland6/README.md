@@ -2,6 +2,8 @@
 
 来自: [Q](https://www.douban.com/people/zhangqingyue/) 2020-11-30 03:07:28
 
+[原帖链接](https://www.douban.com/group/topic/202929146/?_i=7373349FQMtshO)
+
 定居爱尔兰八年，目前在high tech公司管理薪酬福利。薪酬福利的概念是公司给员工的总报酬，包括基本工资，补贴，奖金，股票，商业保险，工作养老金，人身保险等等。薪酬福利的管理是指如何在企业的运营目标下，利用什么样的薪酬和福利，来hire，compensate, motivate, reward, retain员工。
 
 可以回答：
