@@ -1,5 +1,8 @@
 # Step by step 提高SDE面试软实力
 
+来自: [云五](https://www.douban.com/people/yun5s/?_i=7375418FQMtshO) 2020-10-10 03:16:41
+
+[原帖链接](https://www.douban.com/group/topic/196701977/?_i=7376744FQMtshO)
 
 前面写了一篇[LinkedIn Profile优化指南](https://www.douban.com/group/topic/194306149/)，优化好Profile，猎头上门，接下来就该讲面试准备了。保证本文实操性极强，step by step照着做，有和LinkedIn Profile优化一文一样，立竿见影的效果。
 
