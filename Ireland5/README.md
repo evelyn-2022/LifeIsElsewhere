@@ -1,8 +1,8 @@
 # 爱尔兰留学工作之程序媛入职1年工作体验
 
-[原帖链接](https://zhuanlan.zhihu.com/p/296230305)
+来自：知乎 [李水水](https://www.zhihu.com/people/li-shui-shui-75)
 
-[李水水](https://www.zhihu.com/people/li-shui-shui-75)
+[原帖链接](https://zhuanlan.zhihu.com/p/296230305)
 
 爱尔兰留学生/计算机/转专业/已工作/已开付费咨询
 
