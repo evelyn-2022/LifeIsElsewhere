@@ -122,7 +122,7 @@ c. 记笔记复习
 
 截图是我的笔记, 左侧可以看到我是根据algorithm, design, data structure分成三类, 下面还有小类, 每个题前面标 * 表示重点关注 ? 可以做出来但不熟练 y 过了, 右边截图代码和笔记, 尽量做最优解, 因为面试的时候面试官基本都不是想要你给个brute-force
 
-<img width="605" height="449" src=":/d53a28bd0ec64529a90f1a78843c44f9"/>
+<img width="605" height="449" src="_resources/p404580941_baaff216914a4f2cbd2daff4272104db.webp"/>
 
 面试前突击刷的时候(每天10-20题) 还会做个excel, 记录每道题的考点, 最优解法, 要不要复习, 初刷一遍肯定要复习的...
 
