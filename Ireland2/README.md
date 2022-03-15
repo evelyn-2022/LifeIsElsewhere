@@ -2,6 +2,8 @@
 
 来自: [Jarry(。)](https://www.douban.com/people/jrjw/?_i=7364553FQMtshO) 2021-01-24 06:08:57
 
+[原帖链接](https://www.douban.com/group/topic/209301517/?_i=7373149FQMtshO)
+
 #### 6.3 更新
 
 刚知道同专业关系比较好的女生也拿到offer了, 激动更新...
