@@ -2,6 +2,8 @@
 
 来自: [爱岛小🐏](https://www.douban.com/people/207322593/?_i=7367757FQMtshO) 2022-01-22 07:09:16
 
+[原帖链接](https://www.douban.com/group/topic/258438171/?_i=7373206FQMtshO,7373241FQMtshO)
+
 我之前发布过在爱尔兰找工作攻略的第一篇--简历篇。地址在这里： [https://www.douban.com/note/823990325/?_i=2803535m1JSfBK,2804174m1JSfBK](https://www.douban.com/note/823990325/?_i=2803535m1JSfBK%2C2804174m1JSfBK)
 
 现在整理第二篇：求职篇。
