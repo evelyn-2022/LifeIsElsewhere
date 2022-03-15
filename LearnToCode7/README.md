@@ -46,7 +46,7 @@ Hello大家好我又回来了，非常感谢指西针小组的各位姐妹们的
 
 ### **学习路线**
 
-#### **Python for everybody[PY4E - Python for Everybody](https://www.py4e.com/)**
+#### **Python for everybody [PY4E - Python for Everybody](https://www.py4e.com/)**
 
 推荐指数：<img width="21" height="21" src="_resources/1f31f_1b066c6a862d487699c30e731eca2f81.png"/><img width="21" height="21" src="_resources/1f31f_1b066c6a862d487699c30e731eca2f81.png"/><img width="21" height="21" src="_resources/1f31f_1b066c6a862d487699c30e731eca2f81.png"/>
 
@@ -58,7 +58,7 @@ Hello大家好我又回来了，非常感谢指西针小组的各位姐妹们的
 
 <img width="760" height="207" src="_resources/p445667262_b80ddb8e6d9549318f6b6159c345bead.webp"/>
 
-推荐指数：<img width="21" height="21" src="_resources/1f31f_1b066c6a862d487699c30e731eca2f81.png"/><img width="21" height="21" src="../_resources/1f31f_1b066c6a862d487699c30e731eca2f81.png"/><img width="21" height="21" src="_resources/1f31f_1b066c6a862d487699c30e731eca2f81.png"/><img width="21" height="21" src="_resources/1f31f_1b066c6a862d487699c30e731eca2f81.png"/><img width="21" height="21" src="_resources/1f31f_1b066c6a862d487699c30e731eca2f81.png"/>
+推荐指数：<img width="21" height="21" src="_resources/1f31f_1b066c6a862d487699c30e731eca2f81.png"/><img width="21" height="21" src="_resources/1f31f_1b066c6a862d487699c30e731eca2f81.png"/><img width="21" height="21" src="_resources/1f31f_1b066c6a862d487699c30e731eca2f81.png"/><img width="21" height="21" src="_resources/1f31f_1b066c6a862d487699c30e731eca2f81.png"/><img width="21" height="21" src="_resources/1f31f_1b066c6a862d487699c30e731eca2f81.png"/>
 
 这一门课非常适合一无所知的初学者，Angela会用人人都懂的大白话来讲课，偶尔会讲Kanye West和程序员的笑话，还会用一些通俗易懂的例子来解释一些计算机概念，我超级喜欢Angela的讲课风格，还买了她ios开发的课（还没看<img width="21" height="21" src="_resources/1f602_f85afe57320c4f94a9d748e8b89e41c4.png"/>）。
 
