@@ -54,4 +54,7 @@
 
 6. [豆瓣 WIT：分享 | 非科班 | 零基础小白如何刷题](https://github.com/evelyn-2022/LifeIsElsewhere/tree/main/LearnToCode6)
 
+## 四、其他
+
+1. [豆瓣日记：如何在全世界免费打工换宿———推荐一些网站和找 host 的经验](https://github.com/evelyn-2022/LifeIsElsewhere/tree/main/WorkingHoliday1)
 
