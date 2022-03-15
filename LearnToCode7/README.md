@@ -1,12 +1,14 @@
 # 国内文科（法学）三个月转码经验贴
     
 [WWLander](https://sherooc.club/u/WLander)
+
+[原帖链接](https://sherooc.club/d/14)
     
 - Jun 10, 2021
     
 - Edited
 
-指西组有了自己的网站，真的太开心了<img width="21" height="21" src="../_resources/1f973_8a314da5a16d461faebd711671e1ef6d.png"/>，希望以后自己有能力有时间的话也能为指西组的网站维护/更新贡献一份自己的力量。
+指西组有了自己的网站，真的太开心了<img width="21" height="21" src="_resources/1f973_8a314da5a16d461faebd711671e1ef6d.png"/>，希望以后自己有能力有时间的话也能为指西组的网站维护/更新贡献一份自己的力量。
 
 发这条帖子的时候还沉浸在刚找到工作的愉悦之中，入职以前对于国内公司的性别歧视等问题的认识只是理论上的，工作以后有了切身体会之后才有了一些不一样的感受，有一些歧视是非常隐蔽且难以发觉的，比如说男同事们在做tech talk的时候永远都不会让你加入他们的谈话，男领导在讲话的时候会提到“希望公司的女同事能够考虑一下公司的单身男同事”，即使你在工作中提出建设性的意见的时候他们也不会take your words seriouly，指出了他们技术上的失误他们也不太会第一时间承认，甚至有一些女同事也会在某些时刻表现出厌女倾向（总是以男性为中心、默认男同事的技术比女同事好…），虽然我无法判断这是因为性别原因还是因为我只是一个刚入职的新人，但隐约觉得性别因素一定在其中起到了一些作用。我没有更好的方法来解决这些问题，我只能专心工作努力提升自己的技术。而且我发现女同事普遍都没有野心，很佛系，我在其中好像是一个异类，一个会毫不犹豫地怼男senior，一个莫名有一些野心，一个极度想要证明自己不比那些所谓的科班出身的男同事差的异类。
 
@@ -34,7 +36,7 @@ Hello大家好我又回来了，非常感谢指西针小组的各位姐妹们的
 
 两次考研经历也让我更下定决心不要从事这个职业，特别是不要在国内从事这个职业，考试内容都是类似于政治的八股文，也可以想像得到工作以后将会面临怎样让人无法忍受的情况，我以为我能为了进红圈所多挣点钱从而攒下启动资金而忍一忍背八股文的痛苦，但失败的结果让我明白为了一个自己不喜欢的事情而压抑自己事对自己精神上的折磨，在复习期间我好几次几近精神崩溃，可以说那一段时间里我没有一天是开心的。
 
-好在我无意间在豆瓣上发现了指西针小组，发现原来出国并没有我想象中那么难，这给我充满荫翳的生活带来了一丝希望；下定决心转码以后更是心无旁骛地跟着网课学习计算机，但偶尔也会看看娱乐新闻、追追星啦<img width="21" height="21" src="../_resources/1f602_f85afe57320c4f94a9d748e8b89e41c4.png"/>，能专心地做一件事的时候就不会心情抑郁了。
+好在我无意间在豆瓣上发现了指西针小组，发现原来出国并没有我想象中那么难，这给我充满荫翳的生活带来了一丝希望；下定决心转码以后更是心无旁骛地跟着网课学习计算机，但偶尔也会看看娱乐新闻、追追星啦<img width="21" height="21" src="_resources/1f602_f85afe57320c4f94a9d748e8b89e41c4.png"/>，能专心地做一件事的时候就不会心情抑郁了。
 
 ## 学习经验
 
@@ -46,27 +48,27 @@ Hello大家好我又回来了，非常感谢指西针小组的各位姐妹们的
 
 #### **Python for everybody（
 
-![](../_resources/favicons_sz_64_domain_url_py4e_e1ae6e09a6374f82a3c.com)
+![](_resources/favicons_sz_64_domain_url_py4e_e1ae6e09a6374f82a3c.com)
 
 [PY4E - Python for Everybody](https://www.py4e.com/)
 
-<img width="14" height="14" src="../_resources/py4e_6b53e9dd73d94b00865561590982d095.com"/>[py4e.com](https://py4e.com)
+<img width="14" height="14" src="_resources/py4e_6b53e9dd73d94b00865561590982d095.com"/>[py4e.com](https://py4e.com)
 
 ）**
 
-推荐指数：<img width="21" height="21" src="../_resources/1f31f_1b066c6a862d487699c30e731eca2f81.png"/><img width="21" height="21" src="../_resources/1f31f_1b066c6a862d487699c30e731eca2f81.png"/><img width="21" height="21" src="../_resources/1f31f_1b066c6a862d487699c30e731eca2f81.png"/>
+推荐指数：<img width="21" height="21" src="_resources/1f31f_1b066c6a862d487699c30e731eca2f81.png"/><img width="21" height="21" src="_resources/1f31f_1b066c6a862d487699c30e731eca2f81.png"/><img width="21" height="21" src="_resources/1f31f_1b066c6a862d487699c30e731eca2f81.png"/>
 
 看到好多地方都说这门课对初学者非常友好，但作为一个完全零基础来上这门课的人来说，我觉得它一！点！也！不！友！好。
 
-这门课大致的模式是一节课+一到两个课后作业，难度循序渐进，每写出来一个作业就很有成就感。但是这个课我并没有上完，因为自己的基础实在是太差，上到网络爬虫的那一部分我整个人都是懵的，因为那时候我连html的a tag都不知道是什么，作业更是写不出来，于是我就放弃上这一个课，转而去上更基础的课了，对我直到现在也没上完这一个课<img width="21" height="21" src="../_resources/1f602_f85afe57320c4f94a9d748e8b89e41c4.png"/>，但我估计这里面的内容我现在学起来应该会很快。
+这门课大致的模式是一节课+一到两个课后作业，难度循序渐进，每写出来一个作业就很有成就感。但是这个课我并没有上完，因为自己的基础实在是太差，上到网络爬虫的那一部分我整个人都是懵的，因为那时候我连html的a tag都不知道是什么，作业更是写不出来，于是我就放弃上这一个课，转而去上更基础的课了，对我直到现在也没上完这一个课<img width="21" height="21" src="_resources/1f602_f85afe57320c4f94a9d748e8b89e41c4.png"/>，但我估计这里面的内容我现在学起来应该会很快。
 
 #### **The Complete 2021 Web Development Bootcamp**
 
-<img width="760" height="207" src="../_resources/p445667262_b80ddb8e6d9549318f6b6159c345bead.webp"/>
+<img width="760" height="207" src="_resources/p445667262_b80ddb8e6d9549318f6b6159c345bead.webp"/>
 
-推荐指数：<img width="21" height="21" src="../_resources/1f31f_1b066c6a862d487699c30e731eca2f81.png"/><img width="21" height="21" src="../_resources/1f31f_1b066c6a862d487699c30e731eca2f81.png"/><img width="21" height="21" src="../_resources/1f31f_1b066c6a862d487699c30e731eca2f81.png"/><img width="21" height="21" src="../_resources/1f31f_1b066c6a862d487699c30e731eca2f81.png"/><img width="21" height="21" src="../_resources/1f31f_1b066c6a862d487699c30e731eca2f81.png"/>
+推荐指数：<img width="21" height="21" src="_resources/1f31f_1b066c6a862d487699c30e731eca2f81.png"/><img width="21" height="21" src="../_resources/1f31f_1b066c6a862d487699c30e731eca2f81.png"/><img width="21" height="21" src="_resources/1f31f_1b066c6a862d487699c30e731eca2f81.png"/><img width="21" height="21" src="_resources/1f31f_1b066c6a862d487699c30e731eca2f81.png"/><img width="21" height="21" src="_resources/1f31f_1b066c6a862d487699c30e731eca2f81.png"/>
 
-这一门课非常适合一无所知的初学者，Angela会用人人都懂的大白话来讲课，偶尔会讲Kanye West和程序员的笑话，还会用一些通俗易懂的例子来解释一些计算机概念，我超级喜欢Angela的讲课风格，还买了她ios开发的课（还没看<img width="21" height="21" src="../_resources/1f602_f85afe57320c4f94a9d748e8b89e41c4.png"/>）。
+这一门课非常适合一无所知的初学者，Angela会用人人都懂的大白话来讲课，偶尔会讲Kanye West和程序员的笑话，还会用一些通俗易懂的例子来解释一些计算机概念，我超级喜欢Angela的讲课风格，还买了她ios开发的课（还没看<img width="21" height="21" src="_resources/1f602_f85afe57320c4f94a9d748e8b89e41c4.png"/>）。
 
 虽然这门课对前端开发所需要的技能都有所覆盖，但由于 1）每一个技能都是囫囵吞枣地过了一遍 2）由于零基础处于入门阶段所以还不是很了解到底应该怎么学习，所以也不要指望能在这个课上学到非常hardcore的知识。
 
@@ -84,14 +86,14 @@ Hello大家好我又回来了，非常感谢指西针小组的各位姐妹们的
     
 - 能分得清前端、后端以及数据库这三个部分
     
-- 逐渐能看得懂文档了，这个最重要<img width="21" height="21" src="../_resources/203c_3c90ea40032144cdb5604cbf772b7e25.png"/>，读懂文档是所有合格及以上的开发工程师的必备技能
+- 逐渐能看得懂文档了，这个最重要<img width="21" height="21" src="_resources/203c_3c90ea40032144cdb5604cbf772b7e25.png"/>，读懂文档是所有合格及以上的开发工程师的必备技能
     
 
 #### **React Tutorial and Project Course**
 
-<img width="760" height="162" src="../_resources/p445667955_03bd75daa4414c19889857ebc8f8f3d0.webp"/>
+<img width="760" height="162" src="_resources/p445667955_03bd75daa4414c19889857ebc8f8f3d0.webp"/>
 
-推荐指数：<img width="21" height="21" src="../_resources/1f31f_1b066c6a862d487699c30e731eca2f81.png"/><img width="21" height="21" src="../_resources/1f31f_1b066c6a862d487699c30e731eca2f81.png"/><img width="21" height="21" src="../_resources/1f31f_1b066c6a862d487699c30e731eca2f81.png"/><img width="21" height="21" src="../_resources/1f31f_1b066c6a862d487699c30e731eca2f81.png"/>
+推荐指数：<img width="21" height="21" src="_resources/1f31f_1b066c6a862d487699c30e731eca2f81.png"/><img width="21" height="21" src="_resources/1f31f_1b066c6a862d487699c30e731eca2f81.png"/><img width="21" height="21" src="_resources/1f31f_1b066c6a862d487699c30e731eca2f81.png"/><img width="21" height="21" src="_resources/1f31f_1b066c6a862d487699c30e731eca2f81.png"/>
 
 就这门课的项目质量以及课程安排上来说，我其实是想打五星的，但无奈老师有些口齿不清，所以减了一星。
 
@@ -99,9 +101,9 @@ Hello大家好我又回来了，非常感谢指西针小组的各位姐妹们的
 
 #### **JavaScript Algorithms and Data Structure**
 
-<img width="760" height="832" src="../_resources/p445668107_db1b27bbd61344bab1d7a556df9b0542.webp"/>
+<img width="760" height="832" src="_resources/p445668107_db1b27bbd61344bab1d7a556df9b0542.webp"/>
 
-推荐指数：<img width="21" height="21" src="../_resources/1f31f_1b066c6a862d487699c30e731eca2f81.png"/><img width="21" height="21" src="../_resources/1f31f_1b066c6a862d487699c30e731eca2f81.png"/><img width="21" height="21" src="../_resources/1f31f_1b066c6a862d487699c30e731eca2f81.png"/><img width="21" height="21" src="../_resources/1f31f_1b066c6a862d487699c30e731eca2f81.png"/><img width="21" height="21" src="../_resources/1f31f_1b066c6a862d487699c30e731eca2f81.png"/>
+推荐指数：<img width="21" height="21" src="_resources/1f31f_1b066c6a862d487699c30e731eca2f81.png"/><img width="21" height="21" src="_resources/1f31f_1b066c6a862d487699c30e731eca2f81.png"/><img width="21" height="21" src="_resources/1f31f_1b066c6a862d487699c30e731eca2f81.png"/><img width="21" height="21" src="_resources/1f31f_1b066c6a862d487699c30e731eca2f81.png"/><img width="21" height="21" src="_resources/1f31f_1b066c6a862d487699c30e731eca2f81.png"/>
 
 这门课udemy上也有，但是我是现在youtube上搜到的，看到有免费的课可以蹭以后就没有买udemy上的课。
 
@@ -113,13 +115,13 @@ Hello大家好我又回来了，非常感谢指西针小组的各位姐妹们的
 
 ### Khan Academy的计算机课
 
-推荐指数：<img width="21" height="21" src="../_resources/1f31f_1b066c6a862d487699c30e731eca2f81.png"/><img width="21" height="21" src="../_resources/1f31f_1b066c6a862d487699c30e731eca2f81.png"/><img width="21" height="21" src="../_resources/1f31f_1b066c6a862d487699c30e731eca2f81.png"/>
+推荐指数：<img width="21" height="21" src="_resources/1f31f_1b066c6a862d487699c30e731eca2f81.png"/><img width="21" height="21" src="_resources/1f31f_1b066c6a862d487699c30e731eca2f81.png"/><img width="21" height="21" src="_resources/1f31f_1b066c6a862d487699c30e731eca2f81.png"/>
 
 Khan Academy上的Computer and Internet这一节课很值得看一看，讲了HTTP协议、IP、TCP、DNS等等计算机网络基础知识，看不懂没关系，看完之后有点印象就行，最起码面试的时候不至于太懵逼
 
 #### **JavaScipt高级程序设计**
 
-<img width="760" height="967" src="../_resources/p445668260_5f1a17e0ddc3420b865c12023842c765.webp"/>
+<img width="760" height="967" src="_resources/p445668260_5f1a17e0ddc3420b865c12023842c765.webp"/>
 
 对于初学者来说这本书非常难懂，但啃下来以后也非常地rewarding，不可能一遍就看懂，而是需要一遍又一遍地回顾，我建议有能力的直接找英文原版来看（我就是这么干的）。
 
@@ -152,21 +154,21 @@ Khan Academy上的Computer and Internet这一节课很值得看一看，讲了HT
 
 关于怎么投简历，怎么让HR主动找上门来，云五老师的求职系列文章非常好，虽然写的是国外找工经验，但是对于国内找工作也有帮助，我按照这个做了以后在拉勾网上收到了很多投简历的邀请
 
-<img width="60" height="60" src="../_resources/favicons_sz_64_domain_url_douban_35e5203ac6224210a.com"/>
+<img width="60" height="60" src="_resources/favicons_sz_64_domain_url_douban_35e5203ac6224210a.com"/>
 
 [提高LinkedIn Profile质量，让recruiter和HR主动上门](https://www.douban.com/group/topic/194306149/?dt_dapp=1)
 
-<img width="14" height="14" src="../_resources/douban_f148b19beaf04f7aa5e51003eedd145a.com"/>[douban.com](https://douban.com)
+<img width="14" height="14" src="_resources/douban_f148b19beaf04f7aa5e51003eedd145a.com"/>[douban.com](https://douban.com)
 
-<img width="60" height="60" src="../_resources/favicons_sz_64_domain_url_douban_35e5203ac6224210a.com"/>
+<img width="60" height="60" src="_resources/favicons_sz_64_domain_url_douban_35e5203ac6224210a.com"/>
 
 [Step by step 提高SDE面试软实力](https://www.douban.com/group/topic/196701977/?dt_dapp=1)
 
-<img width="14" height="14" src="../_resources/douban_f148b19beaf04f7aa5e51003eedd145a.com"/>[douban.com](https://douban.com)
+<img width="14" height="14" src="_resources/douban_f148b19beaf04f7aa5e51003eedd145a.com"/>[douban.com](https://douban.com)
 
 ## 一些资源
 
-#### **有用的网站（对的你没看错，就是这三个<img width="26" height="26" src="../_resources/203c_3c90ea40032144cdb5604cbf772b7e25.png"/>）**
+#### **有用的网站（对的你没看错，就是这三个<img width="26" height="26" src="_resources/203c_3c90ea40032144cdb5604cbf772b7e25.png"/>）**
 
 - 油管
     
@@ -177,48 +179,48 @@ Khan Academy上的Computer and Internet这一节课很值得看一看，讲了HT
 
 #### **我存下来的一些比较好的github repo**
 
-- <img width="60" height="30" src="../_resources/developer-roadmap_b720aa48b7644614ab4a7352b6ab9ef7.png"/>
-    
+- <img width="60" height="30" src="_resources/developer-roadmap_b720aa48b7644614ab4a7352b6ab9ef7.png"/>
+   
     [GitHub - kamranahmedse/developer-roadmap: Roadmap to becoming a developer in 2022](https://github.com/kamranahmedse/developer-roadmap)
     
     Roadmap to becoming a developer in 2022. Contribute to kamranahmedse/developer-roadmap development by creating an account on GitHub.
     
-    <img width="14" height="14" src="../_resources/github_68f02c5b639d43daad8198e2c71c8926.com"/>[GitHub](https://github.com)
+    <img width="14" height="14" src="_resources/github_68f02c5b639d43daad8198e2c71c8926.com"/>[GitHub](https://github.com)
     
-- <img width="60" height="30" src="../_resources/Front-End-Interview-Notebook_fca09bb2bb594e6ea295e.png"/>
+- <img width="60" height="30" src="_resources/Front-End-Interview-Notebook_fca09bb2bb594e6ea295e.png"/>
     
     [GitHub - CavsZhouyou/Front-End-Interview-Notebook: 前端面试复习笔记](https://github.com/CavsZhouyou/Front-End-Interview-Notebook)
     
     :ant:前端面试复习笔记. Contribute to CavsZhouyou/Front-End-Interview-Notebook development by creating an account on GitHub.
     
-    <img width="14" height="14" src="../_resources/github_68f02c5b639d43daad8198e2c71c8926.com"/>[GitHub](https://github.com)
+    <img width="14" height="14" src="_resources/github_68f02c5b639d43daad8198e2c71c8926.com"/>[GitHub](https://github.com)
     
-- <img width="60" height="30" src="../_resources/Web_3a618d68a4eb43a497673949262ec155.png"/>
+- <img width="60" height="30" src="_resources/Web_3a618d68a4eb43a497673949262ec155.png"/>
     
     [GitHub - qianguyihao/Web: 千古前端图文教程，超详细的前端入门到进阶学习笔记。从零开始学前端，做一名精致优雅的前端工程师。](https://github.com/qianguyihao/Web)
     
     千古前端图文教程，超详细的前端入门到进阶学习笔记。从零开始学前端，做一名精致优雅的前端工程师。. Contribute to qianguyihao/Web development by creating an account on GitHub.
     
-    <img width="14" height="14" src="../_resources/github_68f02c5b639d43daad8198e2c71c8926.com"/>[GitHub](https://github.com)
+    <img width="14" height="14" src="_resources/github_68f02c5b639d43daad8198e2c71c8926.com"/>[GitHub](https://github.com)
     
-    （强烈推荐<img width="21" height="21" src="../_resources/203c_3c90ea40032144cdb5604cbf772b7e25.png"/>，git clone下来慢慢看）
+    （强烈推荐<img width="21" height="21" src="_resources/203c_3c90ea40032144cdb5604cbf772b7e25.png"/>，git clone下来慢慢看）
     
-- <img width="60" height="30" src="../_resources/JavaScript-Algorithms_be23da5464434d12b89a5b177ce8.png"/>
+- <img width="60" height="30" src="_resources/JavaScript-Algorithms_be23da5464434d12b89a5b177ce8.png"/>
     
     [GitHub - sisterAn/JavaScript-Algorithms: 基础理论+JS框架应用+实践，从0到1构建整个前端算法体系](https://github.com/sisterAn/JavaScript-Algorithms)
     
     基础理论+JS框架应用+实践，从0到1构建整个前端算法体系. Contribute to sisterAn/JavaScript-Algorithms development by creating an account on GitHub.
     
-    <img width="14" height="14" src="../_resources/github_68f02c5b639d43daad8198e2c71c8926.com"/>[GitHub](https://github.com)
+    <img width="14" height="14" src="_resources/github_68f02c5b639d43daad8198e2c71c8926.com"/>[GitHub](https://github.com)
     
 
 #### **一些博客文章**
 
-- <img width="14" height="14" src="../_resources/frontendmasters_03242cd77288462294c4eebe4177cc5d.com"/>[frontendmasters.com](https://frontendmasters.com)
+- <img width="14" height="14" src="_resources/frontendmasters_03242cd77288462294c4eebe4177cc5d.com"/>[frontendmasters.com](https://frontendmasters.com)
     
-    （强烈推荐<img width="21" height="21" src="../_resources/203c_3c90ea40032144cdb5604cbf772b7e25.png"/>，所有前端需要了解的知识这上面基本都有️）
+    （强烈推荐<img width="21" height="21" src="_resources/203c_3c90ea40032144cdb5604cbf772b7e25.png"/>，所有前端需要了解的知识这上面基本都有️）
     
-- <img width="14" height="14" src="../_resources/html5rocks_fbdfdf67db3941c5ac2e3ec2c9e118d3.com"/>[html5rocks.com](https://html5rocks.com)
+- <img width="14" height="14" src="_resources/html5rocks_fbdfdf67db3941c5ac2e3ec2c9e118d3.com"/>[html5rocks.com](https://html5rocks.com)
     
 
 ## 写在后面
