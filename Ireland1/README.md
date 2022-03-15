@@ -3,6 +3,8 @@
 
 来自: [挖掘机](https://www.douban.com/people/realegg/?_i=7363594FQMtshO) 2021-01-17 08:08:53
 
+[原帖链接](https://www.douban.com/group/topic/208518025/?_i=7373106FQMtshO)
+
 5.28更新 目前收到了 york / 卡迪夫 / 利物浦
 
 4.7 昨晚上做完腹部运动后发现邮箱有个offer邮件…一看是ucc的isbp 大概上周三交的申请费 下offer速度还是很快 不过我还在等待nuig的software项目和tcd以及一波英国的结果…不论如何 有学上了！
