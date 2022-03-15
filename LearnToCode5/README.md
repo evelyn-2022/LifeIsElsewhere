@@ -1,6 +1,6 @@
 # 分享算法和刷题油管博主
 
-来自: [养生挖煤达人](https://www.douban.com/people/ellenc/)(严肃活泼) 2022-02-20 22:56:53
+来自: [养生挖煤达人](https://www.douban.com/people/ellenc/) 2022-02-20 22:56:53
 
 [原帖链接](https://www.douban.com/group/topic/260581842/?_i=7378707FQMtshO)
 
