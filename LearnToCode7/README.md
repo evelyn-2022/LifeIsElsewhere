@@ -154,17 +154,13 @@ Khan Academy上的Computer and Internet这一节课很值得看一看，讲了HT
 
 关于怎么投简历，怎么让HR主动找上门来，云五老师的求职系列文章非常好，虽然写的是国外找工经验，但是对于国内找工作也有帮助，我按照这个做了以后在拉勾网上收到了很多投简历的邀请
 
-<img width="60" height="60" src="_resources/favicons_sz_64_domain_url_douban_35e5203ac6224210a.com"/>
 
 [提高LinkedIn Profile质量，让recruiter和HR主动上门](https://www.douban.com/group/topic/194306149/?dt_dapp=1)
 
-<img width="14" height="14" src="_resources/douban_f148b19beaf04f7aa5e51003eedd145a.com"/>[douban.com](https://douban.com)
-
-<img width="60" height="60" src="_resources/favicons_sz_64_domain_url_douban_35e5203ac6224210a.com"/>
 
 [Step by step 提高SDE面试软实力](https://www.douban.com/group/topic/196701977/?dt_dapp=1)
 
-<img width="14" height="14" src="_resources/douban_f148b19beaf04f7aa5e51003eedd145a.com"/>[douban.com](https://douban.com)
+
 
 ## 一些资源
 
