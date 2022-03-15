@@ -18,11 +18,11 @@
 
 这是11月份拍的~那时还没下雪~全年最阴沉的时段~北欧的冬天就是这样~不下雪就阴沉沉~下雪就冻死人~最近几天都是零下20度~大家都在家里办公了~
 
-<img width="605" height="341" src="../_resources/p523718373_2cc30f6b872c4460933d61d199e06b0b.webp"/>
+<img width="605" height="341" src="_resources/p523718373_2cc30f6b872c4460933d61d199e06b0b.webp"/>
 
 办公桌~大屏幕真的很爽~
 
-<img width="605" height="341" src="../_resources/p523718374_e57adeb8fc2b4dd0808180fdc5686db6.webp"/>
+<img width="605" height="341" src="_resources/p523718374_e57adeb8fc2b4dd0808180fdc5686db6.webp"/>
 
 办公区~电动升降的桌子yyds~对抗久坐+活跃气氛
 
