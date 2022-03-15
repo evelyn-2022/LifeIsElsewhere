@@ -1,4 +1,4 @@
-# 个人备份：豆瓣、一亩三分地、知乎关于转码移民的帖子
+# 个人备份：豆瓣、指西组、一亩三分地、知乎关于转码移民的帖子
 
 ## 一、简历及面试
 
@@ -53,6 +53,8 @@
 5. [豆瓣 WIT：分享算法和刷题油管博主](https://github.com/evelyn-2022/LifeIsElsewhere/blob/main/LearnToCode5/README.md)
 
 6. [豆瓣 WIT：分享 | 非科班 | 零基础小白如何刷题](https://github.com/evelyn-2022/LifeIsElsewhere/tree/main/LearnToCode6)
+
+7. [指西组：国内文科（法学）三个月转码经验贴](https://github.com/evelyn-2022/LifeIsElsewhere/tree/main/LearnToCode7)
 
 ## 四、其他
 
