@@ -21,7 +21,7 @@
 
 比如你在写Opener的时候，你可以上Linkedln去参考别人是怎么写的,总结总结，再来写自己的Opener。Word也有一个非常好用的工具来修改简历。在你修改简历的时候，可以打开Resume Assistant,如下如所示，这样会直接链接到Linkedln的简历资料库中，你就可以借鉴同样岗位别人是怎么写的，来丰富自己的简历，你甚至还可以filter关键词条。一般学校会提供最新版本的microsoft供学生下载，如果你没有的话更新一下就应该能找到了。
 
-<img width="675" height="348" src="../_resources/p87165937_d2cef21387c548068e68e8c2f1f06ee7.webp"/>
+<img width="675" height="348" src="_resources/p87165937_d2cef21387c548068e68e8c2f1f06ee7.webp"/>
 
 当你把你的简历写出来以后，一定要修改你的简历。首先你可以找同学，把你的简历发给不同的同学，大家互相提供一些修改意见，互相修改简历。还有，请一定联系就业辅导中心的老师，让他们帮帮忙看看你的简历，提出修改意见，他们本身就是资深的HR！会针对你的求职意愿来评估你的简历，并且给出非常中肯的建议。如果你有认识的HR，也可以请他们帮忙看看你的简历是否过关。
 
@@ -31,19 +31,19 @@
 
 同时，使用学校提供的工具。推荐一个超级好用的工具：careerset。可以用来修改和target简历和Cover letter. 注意，这个网站是需要钱的，但是一般跟学校都有合作，用学校的邮件登陆的话就免费。
 
-<img width="675" height="301" src="../_resources/p87165940_f8c52dbe30a7426e945eff7c8fd11cc1.webp"/>
+<img width="675" height="301" src="_resources/p87165940_f8c52dbe30a7426e945eff7c8fd11cc1.webp"/>
 
 左边上传简历，右边可以上传JD
 
-<img width="675" height="312" src="../_resources/p87165941_25120d7cdf0743b7ba009140a24670b8.webp"/>
+<img width="675" height="312" src="_resources/p87165941_25120d7cdf0743b7ba009140a24670b8.webp"/>
 
 有只上传了简历，所以只是简历的评估
 
-<img width="675" height="305" src="../_resources/p87165945_6705823ebccc428b9fe3b9c3664d87a8.webp"/>
+<img width="675" height="305" src="_resources/p87165945_6705823ebccc428b9fe3b9c3664d87a8.webp"/>
 
 随便选了一个评估维度，action verb use 5分
 
-<img width="675" height="316" src="../_resources/p87165947_a596a3aa9c004206ba2709637d3f83ca.webp"/>
+<img width="675" height="316" src="_resources/p87165947_a596a3aa9c004206ba2709637d3f83ca.webp"/>
 
 AI会给出修改意见
 
@@ -85,11 +85,11 @@ https://www.mooc-list.com/tags/europe
 
 很多同学会忽略到linkedln的重要性。linkedln除了名字学校什么信息都没留下，甚至连一张照片都没有！linkedln非常的重要UU们，很多的HR，包括中介机构，都是通过linkedln寻找候选人的，只有30%的岗位是对外招聘的，70%并不会，那他们怎么找人呢？一般就是内推和linkedln. 这个自我展示的平台，一定要用好。会给你带来很多机会。
 
-<img width="675" height="285" src="../_resources/p87166005_4bade4fbc03e4f0eb74b27ee81b19e0e.webp"/>
+<img width="675" height="285" src="_resources/p87166005_4bade4fbc03e4f0eb74b27ee81b19e0e.webp"/>
 
 Recruiter问我是否对该职位感兴趣
 
-<img width="675" height="331" src="../_resources/p87166008_90c8bec4aec14ae4bbe0dd0a4b08a860.webp"/>
+<img width="675" height="331" src="_resources/p87166008_90c8bec4aec14ae4bbe0dd0a4b08a860.webp"/>
 
 学长问是否需要内推
 
