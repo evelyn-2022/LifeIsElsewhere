@@ -1,6 +1,8 @@
 
 # 转码来荷兰工作定居概况
 
+[原帖链接](https://www.douban.com/group/topic/262187679/?_i=7373040FQMtshO)
+
 来自: [小炒肉](https://www.douban.com/people/158787102/?_i=7362251FQMtshO) 2022-03-13 05:32:33
 
 
