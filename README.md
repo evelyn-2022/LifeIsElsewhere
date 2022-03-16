@@ -54,7 +54,7 @@
 
 6. [豆瓣 WIT：分享  非科班  零基础小白如何刷题](https://github.com/evelyn-2022/LifeIsElsewhere/tree/main/LearnToCode6/README.md)
 
-7. [指西组：国内文科（法学）三个月转码经验贴](https://github.com/evelyn-2022/LifeIsElsewhere/tree/main/LearnToCode7/README.md)
+7. [指西组论坛：国内文科（法学）三个月转码经验贴](https://github.com/evelyn-2022/LifeIsElsewhere/tree/main/LearnToCode7/README.md)
 
 ## 四、其他
 
